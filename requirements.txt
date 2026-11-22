@@ -1,0 +1,2 @@
+# Core app uses only the Python standard library.
+# FFmpeg and FFprobe are system packages installed by termux-install.sh.
